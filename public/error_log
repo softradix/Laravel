@@ -1,0 +1,8 @@
+[24-Dec-2018 12:24:34 UTC] PHP Fatal error:  Cannot use App\DeviceToken as DeviceToken because the name is already in use in /home/zpsrxygflh0u/shelter/app/Http/Controllers/Api/UserController.php on line 10
+[25-Dec-2018 16:24:51 UTC] PHP Fatal error:  Class 'Bosnadev\Repositories\Eloquent\Repository' not found in /home/zpsrxygflh0u/shelter/app/Repositories/PushNotificationRepository.php on line 19
+[25-Dec-2018 16:24:51 UTC] PHP Fatal error:  Class 'Bosnadev\Repositories\Eloquent\Repository' not found in /home/zpsrxygflh0u/shelter/app/Repositories/PushNotificationRepository.php on line 19
+[25-Dec-2018 16:24:51 UTC] PHP Fatal error:  Class 'Bosnadev\Repositories\Eloquent\Repository' not found in /home/zpsrxygflh0u/shelter/app/Repositories/PushNotificationRepository.php on line 19
+[25-Dec-2018 16:24:51 UTC] PHP Fatal error:  Class 'Bosnadev\Repositories\Eloquent\Repository' not found in /home/zpsrxygflh0u/shelter/app/Repositories/PushNotificationRepository.php on line 19
+[25-Dec-2018 16:24:51 UTC] PHP Fatal error:  Class 'Bosnadev\Repositories\Eloquent\Repository' not found in /home/zpsrxygflh0u/shelter/app/Repositories/PushNotificationRepository.php on line 19
+[26-Dec-2018 15:24:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/zpsrxygflh0u/shelter/app/Http/Controllers/ShelterController.php on line 330
+[18-Jan-2019 07:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/zpsrxygflh0u/shelter/app/Http/Controllers/Api/ShelterController.php on line 988
